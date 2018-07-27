@@ -9,5 +9,5 @@
 <li>It is your choice whether you hardcode how many attempts they have or allow them to choose how many guesses they can have.</li>
 <li>If the user runs out of guesses, end the game.</li>
 <li>Allow the user to see the letters they have guessed correct and the letters that are remaining. Something like:
-Your word : ###i##i##s
+Your word : ***i**i*s
 </ul>
